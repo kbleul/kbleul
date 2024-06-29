@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Kibrom Leulseged 👋
 
-<!--
-**kbleul/kbleul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a frontend and mobile developer specializing in:
+- React
+- React Native
+- TypeScript
+- REST API
+- GraphQL
+- Next.js
+- Javascript
+- and more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+
+
+## 🔥 My Projects
+- [Project 1](https://github.com/yourusername/project1): A brief description of Project 1.
+- [Project 2](https://github.com/yourusername/project2): A brief description of Project 2.
+- [Project 3](https://github.com/yourusername/project3): A brief description of Project 3.
+
+## 🌐 Find Me Around the Web
+- [LinkedIn](https://www.linkedin.com/in/kibrom-leulseged)
+
+
+## 📫 How to Reach Me
+- Email: [kbleulseged@gmail.com](mailto:kbleulseged@gmail.com)
+
+---
+
+⭐️ From [Kibrom Leulseged](https://github.com/kbleul)
