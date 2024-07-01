@@ -21,10 +21,6 @@ I'm a frontend and mobile developer specializing in:
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 
 
-## 🔥 My Projects
-- [Project 1](https://github.com/yourusername/project1): A brief description of Project 1.
-- [Project 2](https://github.com/yourusername/project2): A brief description of Project 2.
-- [Project 3](https://github.com/yourusername/project3): A brief description of Project 3.
 
 ## 🌐 Find Me Around the Web
 - [LinkedIn](https://www.linkedin.com/in/kibrom-leulseged)
